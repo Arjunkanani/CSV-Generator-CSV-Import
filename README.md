@@ -1,4 +1,4 @@
-<h1>**CSV Generator & CSV Import to SQLite database HTML Form**</h1>
+<h2>CSV Generator & CSV Import to SQLite database HTML Form</h2>
 
 
 Following are the form details which user needs to added by user
