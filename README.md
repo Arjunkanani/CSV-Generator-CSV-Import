@@ -22,8 +22,8 @@ For best practice, to use this form we would suggest to use following configurat
 
 We would recommend to set following configurations as mentioned below in order to import more than 1000000 records.
 
-memory_limit = 2048M
-post_max_size = 1000M
-max_execution_time = 900
+memory_limit = 2048M <br />
+post_max_size = 1000M<br />
+max_execution_time = 900<br />
 upload_max_filesize = 1000M
 
